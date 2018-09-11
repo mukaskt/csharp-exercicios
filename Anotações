@@ -1,0 +1,31 @@
+Métodos 
+Funções : retornar um valor ( return )
+Procedimentos : Atualização ( void )
+-------------------------------------------------------------------
+Nome Método ( param1 , param2 )
+-------------------------------------------------------------------
+      ( Assinatura do método )
+int Soma ( int valor1, int valor2 ){
+    return valor1 + valor2
+    }
+    int somaInt = Soma (12,10);
+-----------------------------------------------------------------
+Tipos Primitivos 
+int
+double
+string
+char
+float
+bool
+decimal
+long
+short
+uint
+ulong
+ushort
+bayte
+
+Tipos Compostos
+struct
+class
+-----------------------------------------------------------------
